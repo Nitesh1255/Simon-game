@@ -1,5 +1,6 @@
 # Introduction
 Welcome to the Simon Game web application! This classic memory and pattern recognition game will challenge your memory and response time. The game features a series of colored buttons, and your goal is to replicate the pattern shown by the computer. Are you ready for the challenge?
+![simon](https://github.com/Nitesh1255/Simon-game/assets/119393883/39794e51-53df-413f-81ab-9f6eebcc7c1f)
 
 #  Features
 Memory Challenge: Test and improve your memory skills.
